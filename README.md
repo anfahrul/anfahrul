@@ -11,9 +11,9 @@ I'm currently Machine Learning Student at <a href="https://grow.google/intl/id_i
 - ⚡ Fun fact: I am a student
 
 ### Tech Stack
-  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" /></a>
+  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png?20191207190041" /></a>
   <a href="https://gin-gonic.com/"><img align="left" alt="Gin" title="Gin" width="21px" src="https://seeklogo.com/images/G/gin-logo-BD71D14076-seeklogo.com.png" /></a>
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="[https://cdn.worldvectorlogo.com/logos/react-2.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434)" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/75px-Laravel.svg.png?20190820171151" /></a>
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" /></a>
   <br>
