@@ -1,8 +1,6 @@
 ### Hi! 👋 I'm Fahrul.
 
-Students and software engineers. I am an individual who is proactive and really likes to create new things. I am an informatics engineering student who is interested in the fields of technology and the community. Until now I am more specific for back-end engineers; Use this field to make something valuable for many people.
-
-I'm currently Machine Learning Student at <a href="https://grow.google/intl/id_id/bangkit">@Bangkit</a>, learn anything about ML.
+Students and software engineers. I am an individual who is proactive and really likes to create new things. I am an informatics engineering student who is interested in the fields of technology and the community. Until now I am more specific for back-end engineers; Use this field to make something valuable for many people. I'm currently Machine Learning Student at <a href="https://grow.google/intl/id_id/bangkit">@Bangkit</a>, learn anything about ML.
 
 - 🔭 I’m currently IE Student and freelance Back-End Enginner
 - 🌱 I’m currently learning Machine Learning
@@ -11,7 +9,7 @@ I'm currently Machine Learning Student at <a href="https://grow.google/intl/id_i
 - ⚡ Fun fact: I am a student
 
 ### Tech Stack
-  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png?20191207190041" /></a>
+  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" /></a>
   <a href="https://gin-gonic.com/"><img align="left" alt="Gin" title="Gin" width="21px" src="https://seeklogo.com/images/G/gin-logo-BD71D14076-seeklogo.com.png" /></a>
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="42px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/75px-Laravel.svg.png?20190820171151" /></a>
@@ -29,5 +27,5 @@ I'm currently Machine Learning Student at <a href="https://grow.google/intl/id_i
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/fahrulan/">LinkedIn</a>
-- <a href="https://dmds.dev">anfahrul.dev (still development)</a>
+- <a href="https://anfahrul.dev">anfahrul.dev (still development)</a>
 - fahrul.sultra@gmail.com
