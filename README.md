@@ -1,12 +1,11 @@
 ### Hi! 👋 I'm Fahrul.
 
-Students and software engineers. I am an individual who is proactive and really likes to create new things. I am an informatics engineering student who is interested in the fields of technology and the community. Until now I am more specific for back-end engineers; Use this field to make something valuable for many people. I'm currently Machine Learning Student at <a href="https://grow.google/intl/id_id/bangkit">@Bangkit</a>, learn anything about ML.
+Bachelor of Informatics Engineering, with a strong focus on Back-End development and interest in Machine Learning. Has experience namely training in Scalable Web Services, Back-End Engineering, and Machine Learning (5 months at <a href="https://grow.google/intl/id_id/bangkit">@Bangkit</a>). Proficient in Python, Go, and JavaScript. Demonstrate leadership in student associations and project management in several projects. Passionate about applying skills to advance cutting-edge technology solutions.
 
-- 🔭 I’m currently IE Student and freelance Back-End Enginner
-- 🌱 I’m currently learning Machine Learning
-- 💬 Feel free to ask me about Back-End Development, Golang, or PHP
+- 🔭 I’m currently grduated in Informatics Engineering
+- 🌱 I’m currently learning Full-Stack Engineering and Machine Learning
+- 💬 Feel free to ask me about Full-Stack Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fahrulan/)
-- ⚡ Fun fact: I am a student
 
 ### Tech Stack
   <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" /></a>
