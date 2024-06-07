@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Fahrul.
 
-Bachelor of Informatics Engineering, with a strong focus on Back-End development and interest in Machine Learning. Has experience namely training in Scalable Web Services, Back-End Engineering, and Machine Learning (5 months at <a href="https://grow.google/intl/id_id/bangkit">@Bangkit</a>). Proficient in Python, Go, and JavaScript. Demonstrate leadership in student associations and project management in several projects. Passionate about applying skills to advance cutting-edge technology solutions.
+Bachelor of Informatics Engineering, with a strong focus on Back-End development, Front-End, and interest in Machine Learning. Has experience namely training in Scalable Web Services, Back-End Engineering, and Machine Learning (5 months at <a href="https://grow.google/intl/id_id/bangkit">@Bangkit</a>). Proficient in Python, Go, and JavaScript. Demonstrate leadership in student associations and project management in several projects. Passionate about applying skills to advance cutting-edge technology solutions.
 
 - 🔭 I’m currently grduated in Informatics Engineering
 - 🌱 I’m currently learning Full-Stack Engineering and Machine Learning
