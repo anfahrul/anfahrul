@@ -8,6 +8,9 @@ Bachelor of Informatics Engineering, with a strong focus on Back-End development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fahrulan/)
 
 ### Tech Stack
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="Javascript" title="Javascript" width="21px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" /></a>
+  <a href="https://nodejs.org/en"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://facebook.github.io/react"><img align="left" alt="ReactJS" title="ReactJS" width="21px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" /></a>
   <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" /></a>
   <a href="https://gin-gonic.com/"><img align="left" alt="Gin" title="Gin" width="21px" src="https://seeklogo.com/images/G/gin-logo-BD71D14076-seeklogo.com.png" /></a>
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="42px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" /></a>
